@@ -1,20 +1,12 @@
 <h1 style="font-size:80px;"> Paul Tessier </h1>
 <h2> Electrical Engineering Technologist </h2>  
 
-<h2> SCADA System:</h2>
+<h3> SCADA System:</h3>
 
 - <b>Irrigation Control System</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Demo Video](https://youtu.be/kizj08Kb3Ok?si=FY0yyXyGn6LhNVKD)
+  - [Download App](https://1drv.ms/f/c/db1a6f2c1ecdd855/EgV77RWR0uFLpGgwWBF5wYEBs1c60JW20RM66BTJqtGE4A?e=56YKrI)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
