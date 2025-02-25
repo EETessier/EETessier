@@ -4,6 +4,13 @@
 <h3> SCADA System:</h3>
 
 - <b>Irrigation Control System</b>
+  <p>
+    Smart irrigation system made to manage water and power efficiently. By integrating
+    Modbus communication with an intuitive Tkinter GUI, the system automatically connects
+    to field devices, reading weather data and input from soil moisture sensors, and 
+    adjusting valves and a central pump as needed. 
+  </p>
+  
   - [Demo Video](https://youtu.be/kizj08Kb3Ok?si=FY0yyXyGn6LhNVKD)
   - [Download App](https://1drv.ms/f/c/db1a6f2c1ecdd855/EgV77RWR0uFLpGgwWBF5wYEBs1c60JW20RM66BTJqtGE4A?e=56YKrI)
 
