@@ -1,9 +1,7 @@
 <h1 style="font-size:80px;"> Paul Tessier </h1>
 <h2> Electrical Engineering Technologist </h2>  
 
-<h3> SCADA System:</h3>
-
-- <b>Irrigation Control System</b>
+<h3><a href="https://github.com/EETessier/WaterWise">Industrial Irrigation SCADA System</a></h3>
   <p>
     Smart irrigation system made to manage water and power efficiently. By integrating
     Modbus communication with an intuitive Tkinter GUI, the system automatically connects
@@ -17,8 +15,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Paul Tessier | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Paul Tessier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Paul Tessier | YouTube" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/youtube-play.png" />][youtube]
+[<img align="left" alt="Paul Tessier | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />][linkedin]
+[<img align="left" alt="Send me an email" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/email.png" />](mailto:paul.t.tessier@gmail.com)
 
 [youtube]: https://www.youtube.com/@paultessier8212
 [linkedin]: https://linkedin.com/in/paul-tessier-033939139
